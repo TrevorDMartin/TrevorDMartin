@@ -5,7 +5,7 @@
 - Studying Java, PostgreSQL, JavaScript, Spring Boot, HTML/CSS, Vue.js and Responsive Design.  
 - Seeking a Junior Software Engineer position where I can master my techniques for developing functional, quality applications.
 
-[LinkedIn](https://www.linkedin.com/in/trevordmartin/)  
+<a href="https://www.linkedin.com/in/trevordmartin/" target="_blank">LinkedIn</a>
 [My Online Resume](https://trevordmartin.github.io/portfolio/index.html)
 
 <!---
